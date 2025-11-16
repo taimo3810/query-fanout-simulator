@@ -36,7 +36,7 @@ Query Fan-Out Simulatorは、1つのシードクエリから8つの異なる観�
 ### 1. リポジトリのクローン
 
 ```bash
-git clone https://github.com/yourusername/query-fanout-simulator.git
+git clone https://github.com/taimo3810/query-fanout-simulator.git
 cd query-fanout-simulator
 ```
 
